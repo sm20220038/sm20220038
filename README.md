@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm a final year Software Engineering student, from Belgrade, Serbia</p>
+<p align="center">I'm a Bachelor's of Software Engineering student, from Belgrade, Serbia</p>
 
 ###
 
@@ -40,6 +40,8 @@
 ###
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/sap/default.svg" height="40" alt="Hibernate logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reflex/reflex-original.svg" height="40" alt="Reflex logo"  />
@@ -53,6 +55,7 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" height="40" alt="Hibernate logo"  />
   <img width="12" />
+  
   </div>
   
   ###
